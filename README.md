@@ -25,14 +25,9 @@
 * 스터디 멤버
 
   * 최슬기: [github](https://github.com/abooun.dev)
-
   * 유인혁: [github](https://github.com/InhyeokYoo) 
-
   * 장건희: [github](https://github.com/ckrdkg)
-
   * 정영진: [github](https://github.com/Jung0Jin)
-
-    
 
 * 스터디 일정
 
